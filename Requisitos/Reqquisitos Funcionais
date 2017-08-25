@@ -1,0 +1,19 @@
+Identificador: 	RF0001
+Nome: 	Adicionar novo(a) Cliente e ou Agência
+Módulo: 	Conteúdo
+Data de criação: 	24/08/2017 	Autor: 	Nayara Valadares
+Data da última alteração: 	N/A 	Autor: 	N/A
+Versão: 	1 	Prioridade: 	Essencial
+Descrição: Ao acessar o módulo Clientes e Agências deve conter a opção para adicionar um novo cliente e ou agência.
+Deve ser selecionado o Tipo Cliente ou Agência e deve conter os campos obrigatórios Razão social e Nome fantasia para as duas opçẽs.
+No caso de cadastro de um novo cliente deve conter o dropdown Agência.
+
+Identificador: 	RF0002
+Nome: 	Excluir Cliente e ou Agência
+Módulo: 	Conteúdo
+Data de criação: 	24/08/2017 	Autor: 	Nayara Valadares
+Data da última alteração: 	N/A 	Autor: 	N/A
+Versão: 	1 	Prioridade: 	Essencial
+Descrição: Ao acessar o módulo Clientes e Agências deve conter a opção excluir cliente e ou agência.
+Deve conter um botão na listagem de clientes e ou agênncias que deixe claro a exclusão da agência e ou cliente a partir desse botão.
+Ao clicar nesse botão deve ser exibido um pop-up para que o usuário confirme ou cancele a  exclusão.
